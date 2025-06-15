@@ -14,6 +14,7 @@ Uma ferramenta visual simples e intuitiva para criar, visualizar e copiar sombra
 
 ![BoxShadow Preview](https://drive.google.com/uc?export=view&id=11aJfAvGsme5_0g0WJu0or27WmMQPLptn)
 
+
 ---
 
 ## 🚀 Funcionalidades
